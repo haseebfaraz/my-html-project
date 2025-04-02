@@ -1,0 +1,461 @@
+
+@import url('https://fonts.cdnfonts.com/css/asgard-trial');
+@import url('https://fonts.cdnfonts.com/css/dancing-script');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+h1,h2,h3,h5,p,a {
+    font-family: 'Asgard Trial', sans-serif;
+}
+
+.banner-main-heading h1 {
+    font-size: 65px;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 65px;
+}
+.banner-subheading h4 {
+    font-family: 'Dancing Script', sans-serif;
+    color: #e81758;
+    font-size: 85px;
+    margin-bottom: -25px;
+}
+.banner-btn a, .img-txt-btn a, .event-content a.event-button {
+    padding: 13px 31px;
+    background-color: #da1d45;
+    border-radius: 40px;
+    color: #fff;
+    text-decoration: unset;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.banner-btn, .img-txt-btn {
+    margin-top: 40px;
+}
+section#upcoming-events .event-card {
+    border: 1px solid;
+}
+.img-txt-main-heading h1 {
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.img-txt-subheading h4 {
+    color: #e81758;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 55px;
+    margin-bottom: -20px;
+}
+header .container {
+    padding: 20px 0px;
+}
+div#header-menu-col {
+    display: flex;
+    align-items: center;
+}
+div#header-menu-col .menu-list ul.menu-list-item.d-flex {
+    list-style: none;
+    gap: 40px;
+}
+div#header-social-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div#header-social-col h4 {
+    font-size: 16px;
+    margin-bottom: 0px !important;
+    font-family: 'Asgard Trial';
+}
+div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
+    font-family: 'Asgard Trial';
+    font-weight: 500;
+}
+
+.header-txt {
+    align-items: center;
+    display: flex;
+}
+.logo_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo_img img.img-fluid {
+    max-width: 50% !important;
+}
+section#home-banner .container-fluid {
+    margin-top: -125px !important;
+    padding: 0px;
+    position: relative;
+    z-index: 0 !important;
+}
+.banner-slider {
+    padding: 220px 0px 80px 0px;
+    margin-top: 0px;
+    background-image: url("assets/images/Rectangle 15 copy.png") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    z-index: 0 !important;
+}
+#banner-content-col {
+    display: flex;
+    align-items: center;
+}
+header {
+    z-index: 999 !important;
+    position: relative;
+}
+#events-section .card-body h5.fw-bold, #events-section .card-body p {
+    color: #fff;
+}
+#events-section .card-body p {
+    font-size: 14px;
+}
+
+#events-section .card-body .btn {
+    border: 1px solid #fff;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+.social-icon.d-flex {
+    justify-content: center;
+}
+
+.social-icon.d-flex img.img-fluid {
+    max-width: 13% !important;
+    margin-left: 10px;
+}
+div#img-txt-col {
+    align-items: center;
+    display: flex;
+}
+.img-txt-section {
+    background-image: url(assets/images/img-txt-bg_02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 10px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card.border-0.shadow-lg {
+    background-color: #da1d45;
+    box-shadow: unset !important;
+}
+.img-txt-img-col {
+    display: flex;
+    align-items: center;
+}
+section#gallery-section {
+    background-image: url(assets/images/2_02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 10px 120px !important;
+}
+section#gallery-section .heading-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+section#events-section {
+    padding: 80px 10px !important;
+}
+.gallery-heading {
+    text-align: left;
+}
+
+.gallery-heading h2 span {
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 40px;
+    margin-bottom: -30px;
+}
+.gallery-img-1 {
+    margin-bottom: 20px;
+}
+
+.gallery-img-3 {
+    margin-bottom: 20px;
+}
+.gallery-img-1.img-5 img {
+    width: 100%;
+    height: 29.5rem !important;
+}
+.events-sec-subheading h4 {
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 40px;
+    margin-bottom: -10px;
+}
+
+.events-sec-heading {
+    width: 70%;
+    margin: auto;
+}
+
+.events-sec-heading h2 {
+    font-size: 45px;
+}
+
+
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+    }
+    .reviews-headings h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#customer-reviews #reviewsCarousel .swiper.mySwiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden {
+    padding-bottom: 80px;
+}
+.reviews-headings h4 {
+    color: #dc3545;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 38px;
+    margin-bottom: -10px;
+}
+       #upcoming-events {
+        background-color: #E3F9FA;
+        padding: 60px 0;
+        text-align: center;
+    }
+    .section-subheading {
+        font-size: 40px;
+        font-family: 'Dancing Script', sans-serif;
+        color: #E63946;
+        margin-bottom: -10px;
+    }
+   #upcoming-events h2.section-heading {
+    width: 55%;
+    margin: 0px auto;
+}
+    .section-heading {
+        font-size: 40px;
+        font-weight: bold;
+        color: #000;
+    }
+    .event-card {
+        display: flex;
+        background: #fff;
+        border-radius: 12px;
+        padding: 20px;
+        align-items: center;
+        max-width: 80%;
+        margin: 20px auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .event-content h4 {
+    font-family: 'Asgard Trial', sans-serif;
+}
+    .event-image img {
+        width: 390px;
+        height: auto;
+        border-radius: 10px;
+    }
+    .event-content {
+        padding-left: 20px;
+        text-align: left;
+    }
+    .event-date, .event-location {
+    font-size: 14px;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 10px;
+}
+    .event-title {
+        font-size: 24px;
+        font-weight: bold;
+        color: #000;
+    }
+    .event-description {
+        font-size: 14px;
+        color: #555;
+    }
+    .event-button {
+        display: inline-block;
+        padding: 10px 20px;
+        background: #def8f5;
+        color: #fff;
+        border-radius: 8px;
+        text-decoration: none;
+        margin-top: 10px;
+    }
+    .event-button:hover {
+        background: #C62839;
+    }
+    i.fa-solid.fa-calendar-days, i.fa-solid.fa-location-dot {
+    color: #dc3545;
+}
+.gallery-heading h2.fw-bold {
+    font-size: 40px;
+}
+div#reviewsCarousel .swiper-slide {
+    border-radius: 30px !important;
+}
+.review-card.p-4.bg-white.rounded.shadow {
+    border-radius: 30px !important;
+}
+
+div#reviewsCarousel p.mb-0.text-start {
+    font-size: 15px;
+}
+
+
+
+
+
+footer {
+    background: #1a0a0a;
+    color: #fff;
+    padding: 40px 0px 10px;
+}
+
+.footer-logo img {
+    width: 180px;
+    margin-bottom: 15px;
+}
+
+.footer-logo p {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.footer-contact h3,
+.footer-social h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.footer-contact form input,
+.footer-contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background: #2b1b1b;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.footer-contact form button {
+    background: #e91e63;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-contact form button:hover {
+    background: #c2185b;
+}
+
+.footer-social ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-social ul li {
+    margin-bottom: 10px;
+}
+.footer-form-input {
+    display: flex;
+    gap: 10px;
+}
+.footer-logo p {
+    font-family: 'Poppins';
+}
+.footer-social ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer-social ul li a i {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 2px solid #fff;
+    margin-top: 20px;
+}
+
+.footer-menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.footer-menu li {
+    margin: 0 10px;
+}
+.social-icon.footer-social-icon {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.social-icon.footer-social-icon img.img-fluid {
+    width: 30px;
+}
+.footer-copyright {
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid;
+    margin-top: 20px;
+}
+.footer-copyright .footer-bottom.txt-cts {
+    border: unset;
+}
+.footer-copyright .footer-menu li a {
+    font-size: 15px;
+    font-family: 'Poppins';
+    text-decoration: none;
+}
+.footer-social-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.footer-social-content p {
+    margin-bottom: 0px;
+}
+
+.footer-menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+}
+
+.footer-bottom a {
+    color: #e91e63;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    text-decoration: underline;
+}
