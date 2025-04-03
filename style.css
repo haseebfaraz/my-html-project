@@ -581,16 +581,37 @@ footer {
     .gallery-img-1.img-5 img {
     height: 38.5vw !important;
 }
+    .footer-social {
+    padding-left: 50px;
+}
+    section#home-banner .container, .img-txt-section .container, footer .container {
+    max-width: 1150px;
+}
+    div#img-txt-col {
+    padding-left: 50px;
+}
+   .img-txt-txt {
+    padding-right: 25px;
+    color: #000;
+}
+    .banner-subheading h4 {
+    font-size: 93px;
+    margin-bottom: -25px;
+}
+    .banner-txt {
+    padding-right: 50px;
+}
+    .banner-main-heading h1 {
+    font-size: 75px;
+    line-height: 75px;
+}
 
 
 
     
 }
 @media (max-width: 1366px) {
-    .img-txt-txt {
-    padding-right: 45px;
-    color: #000;
-}
+ 
     .gallery-img-1.img-5 img {
     height: 35vw !important;
 }
@@ -601,6 +622,7 @@ footer {
     width: 55%;
     margin: 0px auto;
 }
+
 
 
     
