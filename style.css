@@ -375,11 +375,7 @@ p.event-location span {
 .gallery-heading h2.fw-bold {
     font-size: 40px;
 }
-div#reviewsCarousel .swiper-slide {
-    border-radius: 30px !important;
-        width: 525px !important;
-    margin: 0px 19px !important;
-}
+
 .review-card.p-4.bg-white.rounded.shadow {
     border-radius: 30px !important;
 }
@@ -548,7 +544,9 @@ form button {
 .footer-bottom a:hover {
     text-decoration: underline;
 }
-
+div#reviewsCarousel .swiper-slide {
+    border-radius: 30px !important;
+}
 
 
 @media (max-width: 1750px) {
@@ -573,7 +571,11 @@ section#home-banner .container, .img-txt-section .container, footer .container {
 .banner-slider {
     padding: 180px 0px 40px 0px;
 }
-
+div#reviewsCarousel .swiper-slide {
+    border-radius: 30px !important;
+    width: 615px !important;
+    margin: 0px 19px !important;
+}
     
 }
 @media (max-width: 1650px) {
@@ -655,7 +657,9 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     width: 55%;
     margin: 0px auto;
 }
-
+div#reviewsCarousel .swiper-slide {
+        width: 525px !important;
+}
 
 
     
