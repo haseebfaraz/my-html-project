@@ -587,17 +587,117 @@ footer {
 }
 
 @media (max-width: 1336px) {
+    .gallery-img-1.img-5 img {
+        height: 36vw !important;
+    }
+
+
+
     
 }
 @media (max-width: 1280px) {
+
+
+    .gallery-img-1.img-5 img {
+        height: 37.5vw !important;
+    }
     
 }
 
 @media (max-width: 1114px) {
-    
+
+.banner-subheading h4 {
+    font-size: 65px;
+}
+.banner-main-heading h1 {
+    font-size: 55px;;
+    line-height: 55px;
+}
+.banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
+    padding: 13px 28px;
+    font-size: 13px;
+}
+div#header-menu-col .menu-list ul.menu-list-item.d-flex {
+    gap: 35px;
+}
+    .header-txt {
+    width: 40%;
+}
+div#header-social-col h4 {
+    font-size: 14px;
+}
+.social-icon.d-flex {
+    width: 60%;
+}
+div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
+    font-size: 14px;
+}
+div#img-txt-col {
+    padding-left: 20px;
+}
+    .img-txt-main-heading h1 {
+    font-size: 38px;
+}
+.img-txt-subheading h4 {
+    font-size: 45px;
+    margin-bottom: -15px;
+}
+.img-txt-txt {
+        padding-right: 15px;
+}
+.img-txt-txt p {
+    font-size: 14px;
+}
+.events-sec-heading h2 {
+    font-size: 38px;
+}
+.events-sec-heading {
+    width: 65%;
+}
+    .card-body h5 {
+    font-size: 18px;
+}
+#events-section .card-body .btn {
+    padding: 12px 28px;
+    font-size: 13px;
+}   
+#upcoming-events h2.section-heading {
+        width: 65%;
+        margin: 0px auto;
+}
+    .section-heading {
+    font-size: 38px;
+}
+    .event-content {
+    padding-left: 25px;
+}
+    .event-description {
+    font-size: 13px;
+}
+.event-content h4.event-title:after {
+    margin: 8px 0px 12px;
+}
+ .event-date, .event-location {
+    font-size: 12px;
+}   
+    .gallery-heading h2.fw-bold {
+    font-size: 38px;
+}
+        .gallery-img-1.img-5 img {
+        height: 39vw !important;
+    }
+    .gallery-img-1.inner-row-1 {
+    margin-bottom: 16px;
+}
+    .reviews-headings h2 {
+    font-size: 36px;
+}
+    div#reviewsCarousel p.mb-0.text-start {
+    font-size: 13px;
 }
 
-
+    
+}
 @media (max-width: 1024px) {
     
 }
