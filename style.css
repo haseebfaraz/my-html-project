@@ -516,3 +516,63 @@ footer {
 .footer-bottom a:hover {
     text-decoration: underline;
 }
+
+
+
+@media (max-width: 1750px) {
+    .gallery-img-1.img-5 img {
+    width: 100%;
+    height: 34.5vw !important;
+}
+
+
+
+
+    
+}
+
+
+@media (max-width: 1650px) {
+    
+}
+
+@media (max-width: 1600px) {
+    
+}
+
+@media (max-width: 1550px) {
+    
+}
+
+@media (max-width: 1440px) {
+    
+}
+
+@media (max-width: 1366px) {
+    
+}
+
+@media (max-width: 1366px) {
+    
+}
+
+@media (max-width: 1336px) {
+    
+}
+@media (max-width: 1280px) {
+    
+}
+
+@media (max-width: 1114px) {
+    
+}
+
+
+@media (max-width: 1024px) {
+    
+}
+
+
+@media (max-width: 884px) {
+    
+}
