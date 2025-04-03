@@ -298,6 +298,7 @@ section#events-section {
 }
     .event-content h4 {
     font-family: 'Asgard Trial', sans-serif;
+        font-size: 22px;
 }
     .event-image img {
         width: 500px;
@@ -322,7 +323,7 @@ section#events-section {
     }
     .event-description {
         font-size: 14px;
-        color: #555;
+        color: #000;
     }
     .event-button {
         display: inline-block;
