@@ -695,6 +695,12 @@ div#img-txt-col {
     div#reviewsCarousel p.mb-0.text-start {
     font-size: 13px;
 }
+        .event-image img {
+        width: 350px;
+    }
+    .event-content h4 {
+    font-size: 18px;
+}
 
     
 }
