@@ -541,11 +541,11 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     max-width: 1400px;
 }
     .banner-main-heading h1 {
-    font-size: 95px;
-    line-height: 95px;
+    font-size: 90px;
+    line-height: 90px;
 }
 .banner-subheading h4 {
-    font-size: 93px;
+    font-size: 85px;
     margin-bottom: -25px;
 }
 .img-txt-txt {
@@ -602,7 +602,7 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     color: #000;
 }
     .banner-subheading h4 {
-    font-size: 93px;
+    font-size: 80px;
     margin-bottom: -25px;
 }
     .banner-txt {
