@@ -6,7 +6,17 @@
 h1,h2,h3,h5,p,a {
     font-family: 'Asgard Trial', sans-serif;
 }
-
+section#home-banner .container {
+    max-width: 1550px;
+}
+.banner-txt {
+    padding-right: 130px;
+}
+.event-card i.fa-solid {
+    font-size: 21px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
 .banner-main-heading h1 {
     font-size: 95px;
     text-transform: uppercase;
