@@ -6,6 +6,10 @@
 h1,h2,h3,h5,p,a {
     font-family: 'Asgard Trial', sans-serif;
 }
+
+div#reviewsCarousel .swiper-slide {
+    margin: 0px 10px !important;
+}
 section#home-banner .container {
     max-width: 1550px;
 }
