@@ -269,12 +269,12 @@ section#events-section {
         margin-bottom: -10px;
     }
    #upcoming-events h2.section-heading {
-    width: 55%;
+    width: 45%;
     margin: 0px auto;
 }
     .section-heading {
         font-size: 40px;
-        font-weight: bold;
+        font-weight: 600;
         color: #000;
     }
     .event-card {
