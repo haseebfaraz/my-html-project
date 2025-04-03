@@ -30,6 +30,9 @@ section#home-banner .container {
     font-size: 115px;
     margin-bottom: -25px;
 }
+form button {
+    border: unset;
+}
 .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
     padding: 13px 31px !important;
     background-color: #da1d45;
