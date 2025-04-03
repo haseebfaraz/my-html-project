@@ -13,6 +13,7 @@ h1,h2,h3,h5,p,a {
 }
 .banner-3 .banner-main-heading h1 {
     color:#fff;
+    -webkit-text-stroke: 1px #000;
 }
 .banner-btn a:hover, .img-txt-btn a:hover, .event-content a.event-button:hover, .card-body a.btn:hover, .gallery-btn a.btn.btn-danger.px-4.py-2:hover, .footer-contact form button:hover {
     background-color: #fff;
