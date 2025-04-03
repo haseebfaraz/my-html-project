@@ -140,7 +140,8 @@ div#img-txt-col {
         padding-left: 40px;
 }
 .img-txt-txt {
-    padding-right: 25px;
+    padding-right: 125px;
+    color:#000;
 }
 span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     border: 6px solid #dc3545;
