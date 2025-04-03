@@ -6,7 +6,16 @@
 h1,h2,h3,h5,p,a {
     font-family: 'Asgard Trial', sans-serif;
 }
-
+#events-section .card-body .btn:hover {
+    background-color: #fff;
+    color: #da1d45;
+    box-shadow: 0px 0px 12px 5px #fb829c;
+}
+.banner-btn a:hover, .img-txt-btn a:hover, .event-content a.event-button:hover, .card-body a.btn:hover, .gallery-btn a.btn.btn-danger.px-4.py-2:hover, .footer-contact form button:hover {
+    background-color: #fff;
+    color: #da1d45;
+    border: 1px solid;
+}
 .swiper-slide.banner-slider.banner-3 {
     background-image: url("assets/images/4 slider.png") !important;
     background-size: cover !important;
