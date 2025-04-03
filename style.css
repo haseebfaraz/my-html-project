@@ -227,7 +227,9 @@ section#events-section {
 .events-sec-heading h2 {
     font-size: 45px;
 }
-
+p.event-location strong {
+    font-weight: 800;
+}
 
 
     .swiper {
