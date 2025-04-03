@@ -500,7 +500,10 @@ footer {
     text-decoration: none;
     font-size: 18px;
 }
-
+.info-footer-cts {
+    display: flex;
+    gap: 24px;
+}
 .footer-bottom p {
     font-size: 14px;
 }
