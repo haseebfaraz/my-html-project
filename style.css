@@ -17,7 +17,7 @@ h1,h2,h3,h5,p,a {
 .banner-subheading h4 {
     font-family: 'Dancing Script', sans-serif;
     color: #e81758;
-    font-size: 85px;
+    font-size: 115px;
     margin-bottom: -25px;
 }
 .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
@@ -27,7 +27,7 @@ h1,h2,h3,h5,p,a {
     color: #fff;
     text-decoration: unset;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Asgard Trial', sans-serif;
 }
 .banner-btn, .img-txt-btn {
@@ -94,7 +94,7 @@ section#home-banner .container-fluid {
     z-index: 0 !important;
 }
 .banner-txt p {
-    font-size: 15px;
+    font-size: 18px;
 }
 .banner-slider {
     padding: 220px 0px 80px 0px;
@@ -305,16 +305,19 @@ section#events-section {
         font-size: 22px;
 }
     .event-image img {
-        width: 500px;
+        width: 550px;
         height: auto;
         border-radius: 10px;
     }
     .event-content {
-        padding-left: 40px;
+        padding-left: 60px;
         text-align: left;
     }
+p.event-location span {
+    font-weight: 900 !important;
+}
     .event-date, .event-location {
-    font-size: 14px;
+    font-size: 16px;
     color: #000;
     font-family: 'Poppins', sans-serif;
     margin-bottom: 10px;
@@ -326,7 +329,7 @@ section#events-section {
         color: #000;
     }
     .event-description {
-        font-size: 14px;
+        font-size: 16px;
         color: #000;
     }
     .event-button {
