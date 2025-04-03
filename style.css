@@ -422,14 +422,7 @@ footer {
     border-radius: 5px;
 }
 
-/*.footer-contact form button {
-    background: #e91e63;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}*/
+
 ::placeholder {
     color: #fff;
     font-family: 'Asgard Trial';
@@ -544,7 +537,9 @@ footer {
     width: 100%;
     height: 34.5vw !important;
 }
-
+section#home-banner .container, .img-txt-section .container, footer .container {
+    max-width: 1400px;
+}
 
 
 
@@ -557,7 +552,9 @@ footer {
     .gallery-img-1.img-5 img {
     height: 33.5vw !important;
 }
-
+section#home-banner .container, .img-txt-section .container, footer .container {
+    max-width: 1350px;
+}
     
 }
 
