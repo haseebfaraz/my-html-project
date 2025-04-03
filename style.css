@@ -548,7 +548,9 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     font-size: 93px;
     margin-bottom: -25px;
 }
-
+.img-txt-txt {
+    padding-right: 80px;
+}
 
 
     
@@ -560,6 +562,9 @@ section#home-banner .container, .img-txt-section .container, footer .container {
 }
 section#home-banner .container, .img-txt-section .container, footer .container {
     max-width: 1320px;
+}
+.img-txt-txt {
+    padding-right: 60px;
 }
     
 }
