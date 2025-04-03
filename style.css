@@ -71,7 +71,9 @@ div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
     font-family: 'Asgard Trial';
     font-weight: 500;
 }
-
+.img-txt-section .container {
+    max-width: 1560px;
+}
 .header-txt {
     align-items: center;
     display: flex;
