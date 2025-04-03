@@ -353,6 +353,7 @@ div#reviewsCarousel .swiper-slide {
 
 div#reviewsCarousel p.mb-0.text-start {
     font-size: 15px;
+    color:#000;
 }
 
 strong.text-danger {
