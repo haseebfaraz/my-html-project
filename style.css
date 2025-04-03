@@ -577,13 +577,15 @@ footer {
     .event-image img {
     width: 430px;
 }
+    #upcoming-events h2.section-heading {
+    width: 55%;
+    margin: 0px auto;
+}
 
 
     
 }
-@media (max-width: 1366px) {
-    
-}
+
 @media (max-width: 1336px) {
     
 }
@@ -599,8 +601,9 @@ footer {
 @media (max-width: 1024px) {
     
 }
-
-
 @media (max-width: 884px) {
+    
+}
+@media (max-width: 836px) {
     
 }
