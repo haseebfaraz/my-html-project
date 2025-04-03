@@ -43,6 +43,9 @@ form button {
     font-size: 16px;
     font-family: 'Asgard Trial', sans-serif;
 }
+div#reviewsCarousel .swiper-wrapper {
+    padding: 0px 10px;
+}
 .banner-btn, .img-txt-btn {
     margin-top: 40px;
 }
