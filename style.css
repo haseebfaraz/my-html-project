@@ -310,7 +310,7 @@ section#events-section {
     }
     .event-date, .event-location {
     font-size: 14px;
-    color: #333;
+    color: #000;
     font-family: 'Poppins', sans-serif;
     margin-bottom: 10px;
         font-weight: 500;
@@ -356,7 +356,9 @@ div#reviewsCarousel p.mb-0.text-start {
 strong.text-danger {
     margin-top: 10px;
 }
-
+.gallery-img-1.inner-row-1 {
+    margin-bottom: 27px;
+}
 
 
 footer {
@@ -384,7 +386,7 @@ footer {
 
 }
 .footer-social {
-    padding-left: 40px;
+    padding-left: 80px;
 }
 .footer-contact form input,
 .footer-contact form textarea {
