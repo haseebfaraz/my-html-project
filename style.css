@@ -34,9 +34,7 @@ section#home-banner .container {
     font-size: 115px;
     margin-bottom: -25px;
 }
-form button {
-    border: unset;
-}
+
 .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
     padding: 13px 31px !important;
     background-color: #da1d45;
@@ -399,15 +397,19 @@ footer {
 
 .footer-logo img {
     width: 70%;
-    margin-bottom: 35px;
+    margin-bottom: 45px;
 }
-
+.footer-logo p strong {
+    font-family: 'Asgard Trial';
+}
 .footer-logo p {
     font-size: 14px;
     margin-bottom: 8px;
-
 }
-
+form button {
+    border: unset;
+    margin-top: 15px;
+}
 .footer-contact h3,
 .footer-social h3 {
     font-size: 20px;
@@ -470,7 +472,7 @@ footer {
     text-align: center;
     padding-top: 20px;
     border-top: 2px solid #fff;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .footer-menu {
