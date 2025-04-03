@@ -540,24 +540,29 @@ footer {
 section#home-banner .container, .img-txt-section .container, footer .container {
     max-width: 1400px;
 }
+    .banner-main-heading h1 {
+    font-size: 95px;
+    line-height: 95px;
+}
+.banner-subheading h4 {
+    font-size: 93px;
+    margin-bottom: -25px;
+}
 
 
 
     
 }
-
-
 @media (max-width: 1650px) {
     
     .gallery-img-1.img-5 img {
     height: 33.5vw !important;
 }
 section#home-banner .container, .img-txt-section .container, footer .container {
-    max-width: 1300px;
+    max-width: 1320px;
 }
     
 }
-
 @media (max-width: 1600px) {
     .gallery-img-1.img-5 img {
     height: 34.5vw !important;
