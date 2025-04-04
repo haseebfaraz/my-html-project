@@ -1348,6 +1348,10 @@ section#events-section {
         .reviews-headings h2 {
         font-size: 19px;
     }
+        div#reviewsCarousel .swiper-slide {
+        width: 342px !important;
+        margin: 0px 22px !important;
+    }
 
 
     
