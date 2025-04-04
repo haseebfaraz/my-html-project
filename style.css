@@ -1006,6 +1006,9 @@ div#header-social-col h4 {
         width: 670px !important;
         margin: 0px 22px !important;
     }
+        div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
+        font-size: 13px;
+    }
 
     
 }
