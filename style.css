@@ -976,6 +976,9 @@ div#header-social-col h4 {
         section#home-banner .container, .img-txt-section .container, footer .container {
         max-width: 730px;
     }
+        .gallery-img-1.img-5 img {
+        height: 35vw !important;
+    }
 
 
     
@@ -987,6 +990,11 @@ div#header-social-col h4 {
             section#home-banner .container, .img-txt-section .container, footer .container {
         max-width: 700px;
     }
+    .gallery-img-1.img-5 img {
+        height: 38vw !important;
+    }
+
+    
 }
 @media (max-width: 480px) {
     
