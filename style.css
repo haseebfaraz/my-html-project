@@ -1254,7 +1254,7 @@ section#events-section {
 
     
 }
-@media (max-width: 428px) {
+@media (max-width: 430px) {
 
         .event-image img {
         width: 350px;
@@ -1273,6 +1273,33 @@ section#events-section {
         width: 373px !important;
         margin: 0px 22px !important;
     }
+        .mob-banner-cts {
+        margin-top: 40px;
+    }
+    .footer-menu li a {
+        font-size: 11px;
+    }
+    .footer-bottom {
+    text-align: center;
+    padding-top: 10px;
+    border-top: 2px solid #fff;
+    margin-top: 30px;
+}
+    .footer-copyright .footer-menu li a {
+    font-size: 14px;
+}
+    .footer-menu li {
+    margin: 0 5px;
+}
+    .footer-copyright {
+    margin-top: 15px;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
     
 }
 @media (max-width: 425px) {
