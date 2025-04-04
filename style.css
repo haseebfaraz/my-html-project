@@ -1225,9 +1225,23 @@ section#events-section {
 }
 @media (max-width: 428px) {
 
+        .event-image img {
+        width: 350px;
+        margin-bottom: 20px;
+    }
+    .reviews-headings h2 {
+        font-size: 20px;
+    }
 .gallery-heading h2.fw-bold {
      font-size: 22px;
 }
+    .reviews-headings h4 {
+    font-size: 34px;
+}
+        div#reviewsCarousel .swiper-slide {
+        width: 373px !important;
+        margin: 0px 22px !important;
+    }
     
 }
 @media (max-width: 425px) {
