@@ -1041,7 +1041,9 @@ div#header-social-col h4 {
     .header-social-content.d-flex {
     display: none !important;
 }
-
+.logo_img {
+    justify-content: flex-start;
+}
 div#header-menu-col {
     display: none;
 }
@@ -1051,6 +1053,17 @@ div#header-menu-col {
     div#header-logo {
     padding: 0px 30px !important;
     width: 100% !important;
+}
+    .event-card {
+    flex-direction: column;
+}
+        .event-image img {
+        width: 380px;
+        margin-bottom: 30px;
+    }
+    .footer-logo img {
+    width: 35%;
+    margin-bottom: 25px;
 }
 
 
