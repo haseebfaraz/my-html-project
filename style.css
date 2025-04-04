@@ -1193,7 +1193,7 @@ section#events-section {
    .menu-list {
         display: none; /* Hide by default */
         flex-direction: column;
-        background: black;
+        background: #da1d45;
         position: absolute;
         top: 60px;
         left: 0;
@@ -1201,16 +1201,15 @@ section#events-section {
         text-align: center;
         padding: 10px;
     }
-
     .menu-list.active {
-        display: flex; /* Show when active */
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
     }
-
     .menu-list li {
         padding: 15px 0;
         border-bottom: 1px solid white;
     }
-
     .menu-list li a {
         color: white;
     }
