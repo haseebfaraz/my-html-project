@@ -31,7 +31,9 @@ ul.menu-list-item a {
     padding: 4px 12px;
 }
 
-
+.gallery-section-mobile {
+    display: none !important;
+}
 
 
 
@@ -1077,7 +1079,12 @@ div#header-social-col h4 {
     
 }
 @media (max-width: 480px) {
-
+.gallery-desk-sec {
+    display: none;
+}
+    .gallery-section-mobile {
+    display: block !important;
+}
 .logo_img img.img-fluid {
     max-width: 35% !important;
 }
