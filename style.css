@@ -1132,6 +1132,16 @@ section#events-section {
         width: 430px !important;
         margin: 0px 22px !important;
     }
+    .img-txt-img-col {
+    margin-top: 60px;
+}
+    .img-txt-section .row {
+    display: flex
+;
+    flex-direction: column-reverse;
+}
+
+
 
     
 }
