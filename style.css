@@ -1081,7 +1081,7 @@ div#header-menu-col {
 }
 .banner-subheading h4 {
         font-size: 40px;
-        margin-bottom: -10px;
+        margin-bottom: 0px;
 }
 .banner-main-heading h1 {
         font-size: 45px;
@@ -1154,6 +1154,13 @@ section#events-section {
 .mob-banner-cts {
     display: flex;
     justify-content: center;
+}
+        .banner-txt {
+        padding-right: 10px;
+    }
+    .swiper-slide.banner-slider.banner-3 {
+    background-image: url("assets/images/mob-banner-4.png") !important;
+    background-position: bottom;
 }
 
 
