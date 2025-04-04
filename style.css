@@ -1303,12 +1303,29 @@ section#events-section {
 
 
 
+
     
 }
 @media (max-width: 425px) {
     
 }
 @media (max-width: 415px) {
+        .review-card.p-4.bg-white.rounded.shadow {
+    border-radius: 30px !important;
+    padding: 30px 15px !important;
+}
+    div#reviewsCarousel p.mb-0.text-start {
+        font-size: 12px;
+    }
+    .swiper-slide img {
+    display: block;
+    width: 90px !important;
+}
+        div#reviewsCarousel .swiper-slide {
+        width: 361px !important;
+        margin: 0px 22px !important;
+    }
+
     
 }
 @media (max-width: 395px) {
