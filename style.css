@@ -974,7 +974,7 @@ div#header-social-col h4 {
 @media (max-width: 836px) {
 
         section#home-banner .container, .img-txt-section .container, footer .container {
-        max-width: 760px;
+        max-width: 730px;
     }
 
 
@@ -983,8 +983,10 @@ div#header-social-col h4 {
 @media (max-width: 800px) {
     
 }
-@media (max-width: 786px) {
-    
+@media (max-width: 768px) {
+            section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 700px;
+    }
 }
 @media (max-width: 480px) {
     
