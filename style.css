@@ -678,7 +678,6 @@ div#reviewsCarousel .swiper-slide {
 
     
 }
-
 @media (max-width: 1336px) {
     .gallery-img-1.img-5 img {
         height: 36vw !important;
@@ -724,7 +723,6 @@ div#reviewsCarousel .swiper-slide {
     }
     
 }
-
 @media (max-width: 1114px) {
     
     section#home-banner .container, .img-txt-section .container, footer .container {
@@ -954,6 +952,13 @@ div#header-social-col h4 {
     }
     section#gallery-section {
     padding: 50px 10px 70px !important;
+}
+    div#reviewsCarousel .swiper-slide {
+        width: 680px !important;
+    }
+    .footer-form-input {
+    gap: 10px;
+    flex-direction: column;
 }
 
     
