@@ -867,6 +867,11 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     
 }
 @media (max-width: 884px) {
+        section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 780px;
+    }
+
+
     
 }
 @media (max-width: 836px) {
