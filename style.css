@@ -787,10 +787,10 @@ div#img-txt-col {
     .card-body h5 {
     font-size: 18px;
 }
-#events-section .card-body .btn {
-    padding: 12px 28px;
-    font-size: 13px;
-}   
+    #events-section .card-body .btn {
+        padding: 10px 25px !important;
+        font-size: 13px;
+    }  
 #upcoming-events h2.section-heading {
         width: 65%;
         margin: 0px auto;
@@ -910,6 +910,10 @@ section#home-banner .container, .img-txt-section .container, footer .container {
         .card-body h5 {
         font-size: 16px;
     }
+    #events-section .card-body p {
+    font-size: 13px;
+    margin-bottom: 10px;
+}
 
 
     
