@@ -995,7 +995,14 @@ div#header-social-col h4 {
        div#reviewsCarousel .swiper-slide {
         width: 690px !important;
     }
-
+    .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
+        padding: 11px 25px;
+        font-size: 11px;
+    }
+        #events-section .card-body .btn {
+        padding: 10px 22px !important;
+        font-size: 11px;
+    }
 
     
 }
