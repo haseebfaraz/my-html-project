@@ -1299,7 +1299,9 @@ section#events-section {
     .footer-copyright .footer-bottom.txt-cts {
     margin-top: 0px;
 }
-
+    .event-date, .event-location {
+        font-family: 'Poppins', sans-serif !important;
+    }
 
 
 
@@ -1357,9 +1359,28 @@ section#events-section {
     
 }
 @media (max-width: 390px) {
+
+    div#reviewsCarousel .swiper-slide {
+        width: 340px !important;
+        margin: 0px 22px !important;
+    }
+
     
 }
 @media (max-width: 380px) {
+
+.event-image img {
+        width: 300px;
+        margin-bottom: 15px;
+    }
+    #upcoming-events {
+    padding: 40px 0;
+}
+        div#reviewsCarousel .swiper-slide {
+        width: 324px !important;
+        margin: 0px 22px !important;
+    }
+
     
 }
 @media (max-width: 360px) {
