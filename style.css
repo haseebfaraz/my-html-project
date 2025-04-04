@@ -1009,6 +1009,13 @@ div#header-social-col h4 {
         div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
         font-size: 13px;
     }
+        .info-footer-cts {
+        gap: 12px;
+        flex-direction: column;
+    }
+    .gallery-img-1 {
+    margin-bottom: 28px;
+}
 
     
 }
