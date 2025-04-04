@@ -3,6 +3,27 @@
 @import url('https://fonts.cdnfonts.com/css/dancing-script');
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
+
+.menu-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mobile-menu-icon {
+    display: none;
+}
+
+#mobile-menu-btn {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
+
+
+
 h1,h2,h3,h5,p,a {
     font-family: 'Asgard Trial', sans-serif;
 }
@@ -1162,6 +1183,38 @@ section#events-section {
     .swiper-slide.banner-slider.banner-3 {
     background-image: url("assets/images/mob-banner-4.png") !important;
     background-position: bottom;
+}
+     .menu-list {
+        display: none; /* Hide menu initially */
+        flex-direction: column;
+        background: #000;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .menu-list-item {
+        flex-direction: column;
+        padding: 10px 0;
+    }
+
+    .menu-list-item li {
+        padding: 10px;
+        list-style: none;
+    }
+
+    .menu-list-item li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+    }
 }
 
 
