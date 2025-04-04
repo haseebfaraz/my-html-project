@@ -1320,7 +1320,7 @@ section#events-section {
     div#reviewsCarousel p.mb-0.text-start {
         font-size: 12px;
     }
-    .review-card .swiper-slide img {
+    .review-card img {
     display: block;
     width: 90px !important;
 }
