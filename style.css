@@ -13,7 +13,7 @@ ul.menu-list a {
     justify-content: space-around;
     list-style: none;
 }
-ul.menu-list-item.d-flex a {
+ul.menu-list-item a {
     color: #000;
     text-decoration: unset;
 }
@@ -1214,11 +1214,12 @@ section#events-section {
         margin-top: 20px;
     }
     .menu-list li {
-        padding: 15px 0;
-        border-bottom: 1px solid white;
+        padding: 11px 0;
+
     }
     .menu-list li a {
         color: white;
+        text-decoration: unset;
     }
         .mobile-menu-icon {
         display: block;
