@@ -960,6 +960,13 @@ div#header-social-col h4 {
     gap: 10px;
     flex-direction: column;
 }
+        .banner-main-heading h1 {
+        font-size: 49px;
+        line-height: 45px;
+    }
+    .banner-subheading h4 {
+        font-size: 50px;
+    }
 
     
 }
