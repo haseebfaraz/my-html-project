@@ -1034,6 +1034,22 @@ div#header-social-col h4 {
     
 }
 @media (max-width: 480px) {
+
+.logo_img img.img-fluid {
+    max-width: 30% !important;
+}
+    .header-social-content.d-flex {
+    display: none !important;
+}
+
+div#header-menu-col {
+    display: none;
+}
+    header .row {
+    width: 100%;
+}
+
+
     
 }
 @media (max-width: 428px) {
