@@ -839,10 +839,50 @@ div#img-txt-col {
           .gallery-img-1.img-5 img {
         height: 39vw !important;
     }
+    section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 940px;
+    }
+
+
+
+    
 }
 @media (max-width: 884px) {
     
 }
 @media (max-width: 836px) {
+    
+}
+@media (max-width: 800px) {
+    
+}
+@media (max-width: 786px) {
+    
+}
+@media (max-width: 480px) {
+    
+}
+@media (max-width: 428px) {
+    
+}
+@media (max-width: 425px) {
+    
+}
+@media (max-width: 415px) {
+    
+}
+@media (max-width: 395px) {
+    
+}
+@media (max-width: 390px) {
+    
+}
+@media (max-width: 380px) {
+    
+}
+@media (max-width: 360px) {
+    
+}
+@media (max-width: 320px) {
     
 }
