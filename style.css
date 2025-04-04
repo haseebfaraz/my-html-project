@@ -1136,9 +1136,15 @@ section#events-section {
     margin-top: 60px;
 }
     .img-txt-section .row {
-    display: flex
-;
+    display: flex;
     flex-direction: column-reverse;
+}
+.gallery-heading h2 span {
+    font-size: 35px;
+    margin-bottom: -30px;
+}
+.gallery-btn {
+    display: none;
 }
 
 
@@ -1146,6 +1152,10 @@ section#events-section {
     
 }
 @media (max-width: 428px) {
+
+.gallery-heading h2.fw-bold {
+     font-size: 22px;
+}
     
 }
 @media (max-width: 425px) {
