@@ -1104,6 +1104,27 @@ section#events-section {
 .event-content {
         padding-left: 15px;
 }
+.gallery-heading h2.fw-bold {
+        font-size: 24px;
+}
+.img-txt-subheading h4 {
+        font-size: 35px;
+        margin-bottom: -10px;
+}
+.events-sec-heading h2 {
+        font-size: 25px;
+}
+.events-sec-subheading h4 {
+    font-size: 34px;
+    margin-bottom: -10px;
+}
+.section-heading {
+        font-size: 26px;
+}
+.section-subheading {
+    font-size: 32px;
+    margin-bottom: -10px;
+}
 
     
 }
