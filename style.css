@@ -719,6 +719,9 @@ div#reviewsCarousel .swiper-slide {
     .img-txt-txt {
         padding-right: 0px;
     }
+        .footer-social {
+        padding-left: 30px;
+    }
     
 }
 
@@ -839,8 +842,24 @@ div#img-txt-col {
           .gallery-img-1.img-5 img {
         height: 39vw !important;
     }
-    section#home-banner .container, .img-txt-section .container, footer .container {
-        max-width: 940px;
+section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 925px;
+}
+.img-txt-section {
+        padding: 40px 10px 40px;
+}
+.footer-logo p {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.footer-contact h3, .footer-social h3 {
+        font-size: 16px;
+}
+.footer-menu li a {
+    font-size: 16px;
+}
+        .footer-social {
+        padding-left: 30px;
     }
 
 
