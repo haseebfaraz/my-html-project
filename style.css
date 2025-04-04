@@ -694,6 +694,15 @@ div#reviewsCarousel .swiper-slide {
     .gallery-img-1.img-5 img {
         height: 37.5vw !important;
     }
+        section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 1080px;
+    }
+    .img-txt-main-heading h1 {
+    font-size: 40px;
+}
+    .img-txt-txt {
+        padding-right: 0px;
+    }
     
 }
 
