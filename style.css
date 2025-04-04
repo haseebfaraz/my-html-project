@@ -683,6 +683,20 @@ div#reviewsCarousel .swiper-slide {
     .gallery-img-1.img-5 img {
         height: 36vw !important;
     }
+    .footer-contact h3, .footer-social h3 {
+    font-size: 18px;
+}
+    .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
+    padding: 12px 25px !important;
+    font-size: 14px;
+}
+    .info-footer-cts {
+    gap: 10px;
+}
+    .banner-subheading h4 {
+        font-size: 75px;
+        margin-bottom: -20px;
+    }
 
 
 
