@@ -973,6 +973,9 @@ div#header-social-col h4 {
         .banner-btn, .img-txt-btn {
     margin-top: 20px;
 }
+    .img-txt-txt p span {
+        display: none;
+    }
 
 
     
