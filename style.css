@@ -1229,7 +1229,26 @@ section#events-section {
         text-align: end;
         margin-top: -60px;
     }
-
+        .footer-logo p {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    footer {
+    padding: 80px 12px 20px;
+}
+.footer-form-input {
+        gap: 0px;
+    }
+        .footer-logo p {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .footer-contact, .footer-social {
+    margin-top: 40px;
+}
+        .footer-social {
+        padding-left: 15px;
+    }
 
 
 
