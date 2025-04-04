@@ -1387,6 +1387,12 @@ section#events-section {
     
 }
 @media (max-width: 360px) {
+img.banner-2.img-fluid {
+    WIDTH: 89%;
+}
+
+
+
     
 }
 @media (max-width: 320px) {
