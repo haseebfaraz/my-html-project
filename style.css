@@ -723,9 +723,18 @@ div#reviewsCarousel .swiper-slide {
 }
 
 @media (max-width: 1114px) {
-
+    
+    section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 950px;
+    }
+    .banner-txt p {
+    font-size: 14px;
+}
+.img-txt-section {
+    padding: 60px 10px 60px;
+}
 .banner-subheading h4 {
-    font-size: 65px;
+    font-size: 60px;
 }
 .banner-main-heading h1 {
     font-size: 55px;;
@@ -754,10 +763,10 @@ div#img-txt-col {
     padding-left: 20px;
 }
     .img-txt-main-heading h1 {
-    font-size: 38px;
+    font-size: 35px;
 }
 .img-txt-subheading h4 {
-    font-size: 45px;
+    font-size: 40px;
     margin-bottom: -15px;
 }
 .img-txt-txt {
@@ -767,7 +776,7 @@ div#img-txt-col {
     font-size: 14px;
 }
 .events-sec-heading h2 {
-    font-size: 38px;
+    font-size: 34px;
 }
 .events-sec-heading {
     width: 65%;
@@ -784,7 +793,7 @@ div#img-txt-col {
         margin: 0px auto;
 }
     .section-heading {
-    font-size: 38px;
+    font-size: 35px;
 }
     .event-content {
     padding-left: 25px;
@@ -799,16 +808,17 @@ div#img-txt-col {
     font-size: 12px;
 }   
     .gallery-heading h2.fw-bold {
-    font-size: 38px;
+    font-size: 35px;
 }
         .gallery-img-1.img-5 img {
-        height: 39vw !important;
+        height: 35.5vw !important;
     }
+  
     .gallery-img-1.inner-row-1 {
     margin-bottom: 16px;
 }
     .reviews-headings h2 {
-    font-size: 36px;
+    font-size: 34px;
 }
     div#reviewsCarousel p.mb-0.text-start {
     font-size: 13px;
@@ -819,11 +829,16 @@ div#img-txt-col {
     .event-content h4 {
     font-size: 18px;
 }
+        div#reviewsCarousel .swiper-slide {
+        width: 436px !important;
+    }
 
     
 }
 @media (max-width: 1024px) {
-    
+          .gallery-img-1.img-5 img {
+        height: 39vw !important;
+    }
 }
 @media (max-width: 884px) {
     
