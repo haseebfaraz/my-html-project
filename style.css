@@ -1464,6 +1464,14 @@ img.banner-2.img-fluid {
         width: 270px !important;
         margin: 0px 22px !important;
     }
+        .banner-main-heading h1 {
+        font-size: 40px;
+        line-height: 42px;
+    }
+        .banner-subheading h4 {
+        font-size: 34px;
+        margin-bottom: 0px;
+    }
 
 
     
