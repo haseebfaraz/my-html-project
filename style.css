@@ -914,7 +914,27 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     font-size: 13px;
     margin-bottom: 10px;
 }
-
+    .social-icon.d-flex img.img-fluid {
+    max-width: 20% !important;
+    margin-left: 4px;
+}
+div#header-social-col h4 {
+        font-size: 13px;
+    }
+        .event-image img {
+        width: 300px;
+    }
+    .event-description {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+        .event-content h4 {
+        font-size: 15px;
+    }
+    .event-content a.event-button {
+        padding: 12px 20px !important;
+        font-size: 11px !important;
+    }
 
     
 }
