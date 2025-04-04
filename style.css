@@ -1088,8 +1088,6 @@ div#header-menu-col {
     div#header-logo {
         padding: 0px 30px !important;
         width: 100% !important;
-        top: -40px;
-        position: relative;
     }
     .event-card {
     flex-direction: column;
@@ -1207,6 +1205,8 @@ section#events-section {
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
+        height: 520px;
+        margin-top: 20px;
     }
     .menu-list li {
         padding: 15px 0;
@@ -1215,10 +1215,12 @@ section#events-section {
     .menu-list li a {
         color: white;
     }
-    .mobile-menu-icon {
+        .mobile-menu-icon {
         display: block;
         text-align: end;
+        margin-top: -60px;
     }
+
 
 
 
