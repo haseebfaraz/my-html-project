@@ -4,9 +4,14 @@
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
 
+ul.menu-list a {
+    color: #000;
+    text-decoration: unset;
+}
 .menu-list {
     display: flex;
     justify-content: space-around;
+    list-style: none;
 }
 ul.menu-list-item.d-flex a {
     color: #000;
