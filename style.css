@@ -952,6 +952,9 @@ div#header-social-col h4 {
     .footer-social {
         padding-left: 25px;
     }
+    section#gallery-section {
+    padding: 50px 10px 70px !important;
+}
 
     
 }
