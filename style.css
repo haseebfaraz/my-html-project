@@ -1187,10 +1187,10 @@ section#events-section {
     background-image: url("assets/images/mob-banner-4.png") !important;
     background-position: bottom;
 }
-     .menu-list {
-        display: none; /* Hide menu initially */
+   .menu-list {
+        display: none; /* Hide by default */
         flex-direction: column;
-        background: #000;
+        background: black;
         position: absolute;
         top: 60px;
         left: 0;
@@ -1199,27 +1199,23 @@ section#events-section {
         padding: 10px;
     }
 
-    .menu-list-item {
-        flex-direction: column;
-        padding: 10px 0;
+    .menu-list.active {
+        display: flex; /* Show when active */
     }
 
-    .menu-list-item li {
-        padding: 10px;
-        list-style: none;
+    .menu-list li {
+        padding: 15px 0;
+        border-bottom: 1px solid white;
     }
 
-    .menu-list-item li a {
-        color: #fff;
-        text-decoration: none;
-        font-size: 18px;
+    .menu-list li a {
+        color: white;
     }
-
     .mobile-menu-icon {
         display: block;
         text-align: end;
     }
-}
+
 
 
     
