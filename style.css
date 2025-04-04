@@ -935,6 +935,9 @@ div#header-social-col h4 {
         padding: 12px 20px !important;
         font-size: 11px !important;
     }
+    .event-card {
+    max-width: 100%;
+}
 
     
 }
