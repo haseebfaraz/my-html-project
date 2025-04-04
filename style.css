@@ -941,6 +941,17 @@ div#header-social-col h4 {
         .event-image img {
         width: 300px;
     }
+    .event-card i.fa-solid {
+    font-size: 14px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+    .social-icon.footer-social-icon img.img-fluid {
+    width: 36px;
+}
+    .footer-social {
+        padding-left: 25px;
+    }
 
     
 }
