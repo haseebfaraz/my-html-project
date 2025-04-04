@@ -267,7 +267,9 @@ section#events-section {
 p.event-location strong {
     font-weight: 800;
 }
-
+.mob-banner-cts {
+    display: none;
+}
 
     .swiper {
       width: 100%;
@@ -1146,7 +1148,12 @@ section#events-section {
 .gallery-btn {
     display: none;
 }
-
+.desk-banner {
+    display: none;
+}
+.mob-banner-cts {
+    display: block;
+}
 
 
     
