@@ -968,9 +968,16 @@ div#header-social-col h4 {
         font-size: 50px;
     }
 
+
     
 }
 @media (max-width: 836px) {
+
+        section#home-banner .container, .img-txt-section .container, footer .container {
+        max-width: 760px;
+    }
+
+
     
 }
 @media (max-width: 800px) {
