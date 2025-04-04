@@ -972,7 +972,7 @@ div#header-social-col h4 {
         font-size: 12px;
     }
         .banner-btn, .img-txt-btn {
-    margin-top: 20px;
+    margin-top: 0px;
 }
     .img-txt-txt p span {
         display: none;
@@ -984,6 +984,14 @@ div#header-social-col h4 {
     .info-footer-cts {
         gap: 10px;
         flex-direction: column;
+    }
+        .banner-btn a, .img-txt-btn a, .event-content a.event-button, .card-body a.btn, .gallery-btn a.btn.btn-danger.px-4.py-2, .footer-contact form button {
+        padding: 11px 20px !important;
+        font-size: 12px;
+    }
+        #events-section .card-body .btn {
+        padding: 8px 22px !important;
+        font-size: 11px;
     }
 
 
