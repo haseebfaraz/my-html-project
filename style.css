@@ -1390,11 +1390,78 @@ section#events-section {
 img.banner-2.img-fluid {
     WIDTH: 89%;
 }
-
+        .events-sec-heading h2 {
+        font-size: 20px;
+    }
+        .section-heading {
+        font-size: 22px;
+    }
+        .gallery-heading h2.fw-bold {
+        font-size: 18px;
+    }
+        .reviews-headings h2 {
+        font-size: 16px;
+    }
+        div#reviewsCarousel .swiper-slide {
+        width: 308px !important;
+        margin: 0px 22px !important;
+    }
+.event-image img {
+        width: 280px;
+        margin-bottom: 15px;
+    }
+        .img-txt-main-heading h1 {
+        font-size: 25px;
+    }
+    .section-subheading {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
+    .events-sec-subheading h4 {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
 
 
     
 }
 @media (max-width: 320px) {
+        .event-image img {
+        width: 250px;
+        margin-bottom: 15px;
+    }
+        .img-txt-main-heading h1 {
+        font-size: 22px;
+    }
+        .events-sec-heading h2 {
+        font-size: 18px;
+    }
+        .section-heading {
+        font-size: 20px;
+    }
+        .event-card {
+        padding: 25px 15px 25px 15px;
+    }
+    .gallery-heading h2.fw-bold {
+        font-size: 16px;
+    }
+        .gallery-heading h2 span {
+        font-size: 28px;
+        margin-bottom: -30px;
+    }
+    .reviews-headings h2 {
+        font-size: 14px;
+    }
+    .reviews-headings h4 {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
+        .img-txt-subheading h4 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+
+
     
 }
