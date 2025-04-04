@@ -954,7 +954,8 @@ div#header-social-col h4 {
     padding: 50px 10px 70px !important;
 }
     div#reviewsCarousel .swiper-slide {
-        width: 680px !important;
+        width: 670px !important;
+        margin: 0px 22px !important;
     }
     .footer-form-input {
     gap: 10px;
@@ -979,6 +980,10 @@ div#header-social-col h4 {
         .img-txt-txt p {
         font-size: 12px;
         margin-bottom: 0px;
+    }
+    .info-footer-cts {
+        gap: 10px;
+        flex-direction: column;
     }
 
 
@@ -1022,10 +1027,6 @@ div#header-social-col h4 {
     }
         div#header-menu-col .menu-list ul.menu-list-item.d-flex li {
         font-size: 13px;
-    }
-        .info-footer-cts {
-        gap: 12px;
-        flex-direction: column;
     }
     .gallery-img-1 {
     margin-bottom: 28px;
