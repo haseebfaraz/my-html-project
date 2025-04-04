@@ -1314,6 +1314,9 @@ section#events-section {
     border-radius: 30px !important;
     padding: 30px 15px !important;
 }
+        .banner-slider {
+        padding: 230px 10px 30px 10px;
+    }
     div#reviewsCarousel p.mb-0.text-start {
         font-size: 12px;
     }
@@ -1329,6 +1332,24 @@ section#events-section {
     
 }
 @media (max-width: 395px) {
+.events-sec-heading h2 {
+        font-size: 24px;
+    }
+        .section-heading {
+        font-size: 24px;
+    }
+    .gallery-heading h2.fw-bold {
+        font-size: 20px;
+    }
+    .event-image img {
+        width: 320px;
+        margin-bottom: 20px;
+    }
+        .reviews-headings h2 {
+        font-size: 19px;
+    }
+
+
     
 }
 @media (max-width: 390px) {
