@@ -1172,6 +1172,9 @@ section#events-section {
 .gallery-btn {
     display: none;
 }
+.event-card {
+    padding: 25px 25px 25px 25px;
+}
 .desk-banner {
     display: none;
 }
