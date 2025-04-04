@@ -481,7 +481,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-	<script>
+<script>
     var swiper = new Swiper(".mySwiper", {
         slidesPerView: 2,
         spaceBetween: 20,
@@ -498,6 +498,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             delay: 4000,
             disableOnInteraction: false,
         },
+        breakpoints: {
+            0: {
+                slidesPerView: 1,
+            },
+            885: {
+                slidesPerView: 2,
+            }
+        }
     });
 </script>
 
