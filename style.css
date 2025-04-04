@@ -938,6 +938,9 @@ div#header-social-col h4 {
     .event-card {
     max-width: 100%;
 }
+        .event-image img {
+        width: 300px;
+    }
 
     
 }
