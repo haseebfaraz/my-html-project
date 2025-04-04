@@ -976,6 +976,10 @@ div#header-social-col h4 {
     .img-txt-txt p span {
         display: none;
     }
+        .img-txt-txt p {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
 
 
     
