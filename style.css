@@ -1066,15 +1066,44 @@ div#header-menu-col {
     .event-card {
     flex-direction: column;
 }
-        .event-image img {
+.event-image img {
         width: 380px;
         margin-bottom: 30px;
-    }
-    .footer-logo img {
+}
+.footer-logo img {
     width: 35%;
     margin-bottom: 25px;
 }
-
+.banner-slider {
+        padding: 230px 15px 30px 15px;
+}
+.banner-subheading h4 {
+        font-size: 40px;
+        margin-bottom: -10px;
+}
+.banner-main-heading h1 {
+        font-size: 45px;
+        line-height: 50px;
+}
+.img-txt-section {
+        padding: 43px 10px 45px;
+        background-position: bottom;
+}
+.img-txt-main-img {
+    margin-bottom: 20px;
+}
+.events-sec-heading {
+        width: 100%;
+}
+#upcoming-events h2.section-heading {
+        width: 100%;
+}
+section#events-section {
+        padding: 30px 30px !important;
+}
+.event-content {
+        padding-left: 15px;
+}
 
     
 }
