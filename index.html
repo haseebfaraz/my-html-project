@@ -565,7 +565,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         }
     });
 </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const mobileMenuBtn = document.getElementById("mobile-menu-btn");
+        const menuList = document.querySelector(".menu-list");
 
+        mobileMenuBtn.addEventListener("click", function () {
+            menuList.style.display = menuList.style.display === "flex" ? "none" : "flex";
+        });
+    });
+</script>
 
 <script>
     var swiper = new Swiper('.custom-swiper', {
