@@ -704,7 +704,9 @@ div#reviewsCarousel .swiper-slide {
 }
 @media (max-width: 1280px) {
 
-
+.img-txt-txt p {
+    font-size: 14px;
+}
     .gallery-img-1.img-5 img {
         height: 37.5vw !important;
     }
