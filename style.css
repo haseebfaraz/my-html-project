@@ -1460,7 +1460,10 @@ img.banner-2.img-fluid {
         font-size: 30px;
         margin-bottom: 0px;
     }
-
+    div#reviewsCarousel .swiper-slide {
+        width: 270px !important;
+        margin: 0px 22px !important;
+    }
 
 
     
