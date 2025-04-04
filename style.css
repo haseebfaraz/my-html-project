@@ -900,6 +900,16 @@ section#home-banner .container, .img-txt-section .container, footer .container {
         .reviews-headings h2 {
         font-size: 28px;
     }
+        div#header-menu-col .menu-list ul.menu-list-item.d-flex {
+        gap: 10px;
+        padding-left: 0px;
+    }
+    .card-body {
+    padding: 10px 0px;
+}
+        .card-body h5 {
+        font-size: 16px;
+    }
 
 
     
