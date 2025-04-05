@@ -491,6 +491,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <div class="swiper-pagination"></div>
   </div>
         </div>
+
+
+    <!-- Mobile Swiper - visible only on small devices -->
+ <div class="d-block d-md-none mt-4">
+      <div class="swiper mobileReviewSlider">
+        <div class="swiper-wrapper">
+          <!-- Same slides reused -->
+          <div class="swiper-slide">
+            <div class="review-card p-4 bg-white rounded shadow mx-auto">
+              <div class="d-flex align-items-center">
+                <img src="assets/images/Ellipse 3.png" class="rounded-circle me-3" alt="Reviewer">
+                <p class="mb-0 text-start">
+                  "It is a long established fact..."
+                  <br><br><strong class="text-danger">Jacob M</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- More slides... -->
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+
+
+	    
     </div>
 </section>
 
@@ -604,8 +630,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             885: {
                 slidesPerView: 2,
             }
-        }
+        }   
     });
+
+var mobileSwiper = new Swiper(".mobileReviewSlider", {
+    slidesPerView: 1,
+    spaceBetween: 20,
+    loop: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
+
+	
 </script>
 <script>
     document.addEventListener("DOMContentLoaded", function () {
