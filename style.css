@@ -1100,6 +1100,10 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
+        .info-footer-cts {
+        gap: 15px;
+        flex-direction: row;
+    }
         section#gallery-section {
         padding: 50px 10px 35px !important;
     }
