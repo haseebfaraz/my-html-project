@@ -1271,12 +1271,12 @@ section#events-section {
         text-align: center;
         padding: 10px;
     }
-    .menu-list.active {
+        .menu-list.active {
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
-        height: 520px;
-        margin-top: 20px;
+        height: 710px;
+        margin-top: 60px;
         padding: 0px 10px !important;
     }
     .menu-list li {
