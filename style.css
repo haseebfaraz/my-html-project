@@ -3,7 +3,9 @@
 @import url('https://fonts.cdnfonts.com/css/dancing-script');
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
-
+li.menu-mob {
+    display: none;
+}
 ul.menu-list a {
     color: #000;
     text-decoration: unset;
@@ -1081,6 +1083,9 @@ div#header-social-col h4 {
 @media (max-width: 480px) {
 .gallery-desk-sec {
     display: none;
+}
+    li.menu-mob {
+    display: block;
 }
     .gallery-section-mobile {
     display: block !important;
