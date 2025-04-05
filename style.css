@@ -906,6 +906,14 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     
 }
 @media (max-width: 884px) {
+
+    ul.menu-list a {
+    font-size: 14px;
+}
+    ul.menu-list.active {
+    padding: 0px;
+    gap: 8px;
+}
         section#home-banner .container, .img-txt-section .container, footer .container {
         max-width: 810px;
     }
@@ -1084,6 +1092,9 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
+        section#gallery-section {
+        padding: 50px 10px 35px !important;
+    }
     li.menu-mob {
     display: block;
 }
@@ -1266,10 +1277,11 @@ span.swiper-pagination-bullet {
     height: 12px;
 }
     .swiper-pagination.gallery-swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
-    position: relative;
-    bottom: -5px;
-    z-index: 999999 !important;
-}
+        position: relative;
+        padding-bottom: 19px;
+        z-index: 999999 !important;
+        bottom: -20px;
+    }
     span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     border: 5px solid #dc3545;
     width: 15px;
