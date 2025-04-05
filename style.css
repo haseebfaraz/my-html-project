@@ -500,6 +500,7 @@ form button {
 }
 .footer-contact form button:hover {
     background: #c2185b;
+    color: #fff;
 }
 
 .footer-social ul {
@@ -1137,6 +1138,14 @@ div#header-menu-col {
 .footer-logo img {
     width: 35%;
     margin-bottom: 25px;
+}
+    .social-icon.footer-social-icon {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+    .footer-social-content p {
+    display: none;
 }
 .banner-slider {
         padding: 230px 15px 30px 15px;
