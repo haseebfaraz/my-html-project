@@ -1106,6 +1106,9 @@ p,a {
     section#home-banner .swiper-pagination.custom-swiper-pagination.swiper-pagination-bullets.swiper-pagination-horizontal {
     bottom: 5px;
 }
+    div#banner-content-col {
+    padding-left: 20px;
+}
 .review-card {
     max-width: 90%;
     margin: 0 auto;
