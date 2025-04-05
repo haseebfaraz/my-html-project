@@ -1104,9 +1104,10 @@ div#header-social-col h4 {
     display: flex;
     justify-content: center;
 }
-        .info-footer-cts {
-        gap: 15px;
+    .info-footer-cts {
+        gap: 65px;
         flex-direction: row;
+        padding-bottom: 20px;
     }
         section#gallery-section {
         padding: 50px 10px 35px !important;
@@ -1144,7 +1145,7 @@ div#header-menu-col {
         margin-bottom: 30px;
 }
 .footer-logo img {
-    width: 45%;
+    width: 55%;
     margin-bottom: 25px;
 }
     .social-icon.footer-social-icon {
