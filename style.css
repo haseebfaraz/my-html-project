@@ -1100,7 +1100,9 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
-
+p,a {
+    font-family: 'Poppins';
+}
 .review-card {
     max-width: 90%;
     margin: 0 auto;
