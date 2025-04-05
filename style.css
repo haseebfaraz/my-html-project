@@ -1459,6 +1459,10 @@ img.banner-2.img-fluid {
         width: 250px;
         margin-bottom: 15px;
     }
+        div#reviewsCarousel p.mb-0.text-start {
+        font-size: 12px;
+        text-align: center !important;
+    }
         img.banner-2.img-fluid {
         WIDTH: 89.5%;
     }
