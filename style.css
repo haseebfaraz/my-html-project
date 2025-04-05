@@ -1107,9 +1107,8 @@ div#header-social-col h4 {
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
     border-radius: 20px;
 }
-.swiper-slide {
-    display: flex;
-    justify-content: center;
+div#reviewsCarousel .swiper-slide {
+    background-color: transparent;
 }
     
     .gallery-heading {
@@ -1226,8 +1225,8 @@ section#events-section {
         font-size: 23px;
     }
         div#reviewsCarousel .swiper-slide {
-        width: 430px !important;
-        margin: 0px 22px !important;
+        width: 456px !important;
+        margin: 0px 20px 0px 0px !important;
     }
     .img-txt-img-col {
     margin-top: 60px;
@@ -1349,8 +1348,8 @@ span.swiper-pagination-bullet {
     font-size: 34px;
 }
         div#reviewsCarousel .swiper-slide {
-        width: 373px !important;
-        margin: 0px 22px !important;
+        width: 404px !important;
+        margin: 0px 20px 0px 0px !important;
     }
         .mob-banner-cts {
         margin-top: 40px;
@@ -1388,6 +1387,12 @@ span.swiper-pagination-bullet {
     
 }
 @media (max-width: 425px) {
+div#reviewsCarousel .swiper-slide {
+        width: 401px !important;
+        margin: 0px 20px 0px 0px !important;
+    }
+
+
     
 }
 @media (max-width: 415px) {
@@ -1405,9 +1410,9 @@ span.swiper-pagination-bullet {
     display: block;
     width: 90px !important;
 }
-        div#reviewsCarousel .swiper-slide {
-        width: 361px !important;
-        margin: 0px 22px !important;
+    div#reviewsCarousel .swiper-slide {
+        width: 390px !important;
+        margin: 0px 20px 0px 0px !important;
     }
 
     
@@ -1430,8 +1435,8 @@ span.swiper-pagination-bullet {
         font-size: 19px;
     }
         div#reviewsCarousel .swiper-slide {
-        width: 342px !important;
-        margin: 0px 22px !important;
+        width: 371px !important;
+        margin: 0px 20px 0px 0px !important;
     }
             .banner-slider {
         padding: 230px 0px 30px 0px;
@@ -1442,9 +1447,9 @@ span.swiper-pagination-bullet {
 }
 @media (max-width: 390px) {
 
-    div#reviewsCarousel .swiper-slide {
-        width: 340px !important;
-        margin: 0px 22px !important;
+        div#reviewsCarousel .swiper-slide {
+        width: 366px !important;
+        margin: 0px 20px 0px 0px !important;
     }
 
     
@@ -1458,9 +1463,9 @@ span.swiper-pagination-bullet {
     #upcoming-events {
     padding: 40px 0;
 }
-        div#reviewsCarousel .swiper-slide {
-        width: 324px !important;
-        margin: 0px 22px !important;
+       div#reviewsCarousel .swiper-slide {
+        width: 351px !important;
+        margin: 0px 20px 0px 0px !important;
     }
 
     
@@ -1481,9 +1486,9 @@ img.banner-2.img-fluid {
         .reviews-headings h2 {
         font-size: 16px;
     }
-        div#reviewsCarousel .swiper-slide {
-        width: 308px !important;
-        margin: 0px 22px !important;
+         div#reviewsCarousel .swiper-slide {
+        width: 336px !important;
+        margin: 0px 20px 0px 0px !important;
     }
 .event-image img {
         width: 280px;
@@ -1550,9 +1555,9 @@ img.banner-2.img-fluid {
         font-size: 30px;
         margin-bottom: 0px;
     }
-    div#reviewsCarousel .swiper-slide {
-        width: 270px !important;
-        margin: 0px 22px !important;
+        div#reviewsCarousel .swiper-slide {
+        width: 296px !important;
+        margin: 0px 20px 0px 0px !important;
     }
         .banner-main-heading h1 {
         font-size: 40px;
