@@ -1479,6 +1479,17 @@ img.banner-2.img-fluid {
         font-size: 34px;
         margin-bottom: 0px;
     }
+    .footer-menu li a {
+        font-size: 9px;
+    }
+    .footer-copyright .footer-menu li a {
+        font-size: 12px;
+    }
+    .review-card.p-4.bg-white.rounded.shadow .d-flex.align-items-center {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
 
 
     
