@@ -1103,6 +1103,9 @@ div#header-social-col h4 {
 p,a {
     font-family: 'Poppins';
 }
+    section#home-banner .swiper-pagination.custom-swiper-pagination.swiper-pagination-bullets.swiper-pagination-horizontal {
+    bottom: 5px;
+}
 .review-card {
     max-width: 90%;
     margin: 0 auto;
