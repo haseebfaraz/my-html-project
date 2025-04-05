@@ -914,7 +914,7 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     display: flex;
     justify-content: space-around;
     list-style: none;
-    gap: 14px;
+    gap: 8px;
     padding: 0px !important;
 }
 
