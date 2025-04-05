@@ -910,10 +910,15 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     ul.menu-list a {
     font-size: 14px;
 }
-    ul.menu-list.active {
-    padding: 0px;
-    gap: 8px;
+    .menu-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 14px;
+    padding: 0px !important;
 }
+
+
         section#home-banner .container, .img-txt-section .container, footer .container {
         max-width: 810px;
     }
