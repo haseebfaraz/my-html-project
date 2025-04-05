@@ -1459,6 +1459,10 @@ img.banner-2.img-fluid {
         width: 250px;
         margin-bottom: 15px;
     }
+        img.banner-2.img-fluid {
+        WIDTH: 89.5%;
+    }
+
         .img-txt-main-heading h1 {
         font-size: 22px;
     }
