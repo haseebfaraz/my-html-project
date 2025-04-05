@@ -1100,6 +1100,18 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
+
+.review-card {
+    max-width: 90%;
+    margin: 0 auto;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    border-radius: 20px;
+}
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+}
+    
     .gallery-heading {
     text-align: center;
 }
