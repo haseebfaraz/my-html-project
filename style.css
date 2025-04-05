@@ -2,7 +2,9 @@
 @import url('https://fonts.cdnfonts.com/css/asgard-trial');
 @import url('https://fonts.cdnfonts.com/css/dancing-script');
 @import url('https://fonts.cdnfonts.com/css/poppins');
-
+p span.change-fonts {
+    font-family: 'Poppins' !important;
+}
 li.menu-mob {
     display: none;
 }
