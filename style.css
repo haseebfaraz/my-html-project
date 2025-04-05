@@ -1245,6 +1245,7 @@ section#events-section {
         align-items: flex-start;
         height: 520px;
         margin-top: 20px;
+        padding: 0px 10px !important;
     }
     .menu-list li {
         padding: 11px 0;
