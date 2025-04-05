@@ -1100,6 +1100,10 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
+    .footer-logo-cts {
+    display: flex;
+    justify-content: center;
+}
         .info-footer-cts {
         gap: 15px;
         flex-direction: row;
