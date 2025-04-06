@@ -43,7 +43,7 @@ h1,h2,h3,h5 {
     font-family: "Fredoka", sans-serif;
 }
 
-h1,h2,h3,h5,p,a {
+p,a {
     font-family: 'Asgard Trial', sans-serif;
 }
 #events-section .card-body .btn:hover {
