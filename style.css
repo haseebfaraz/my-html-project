@@ -1102,6 +1102,11 @@ div#header-social-col h4 {
 .gallery-desk-sec {
     display: none;
 }
+section#gallery-section .heading-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
 p,a {
     font-family: 'Poppins';
 }
@@ -1189,10 +1194,9 @@ div#header-menu-col {
         margin-bottom: -10px;
 }
     .banner-main-heading h1 {
-        font-size: 40px;
+        font-size: 45px;
         line-height: 37px;
         font-family: "Fredoka", sans-serif;
-        width: 80%;
     }
 .img-txt-section {
         padding: 43px 10px 45px;
@@ -1214,28 +1218,28 @@ section#events-section {
         padding-left: 15px;
 }
 .gallery-heading h2.fw-bold {
-        font-size: 24px;
+        font-size: 28px;
 }
 .img-txt-subheading h4 {
         font-size: 35px;
         margin-bottom: -10px;
 }
 .events-sec-heading h2 {
-        font-size: 25px;
+        font-size: 28px;
 }
 .events-sec-subheading h4 {
     font-size: 34px;
     margin-bottom: -10px;
 }
 .section-heading {
-        font-size: 26px;
+        font-size: 28px;
 }
 .section-subheading {
     font-size: 32px;
     margin-bottom: -10px;
 }
     .reviews-headings h2 {
-        font-size: 23px;
+        font-size: 26px;
     }
         div#reviewsCarousel .swiper-slide {
         width: 456px !important;
