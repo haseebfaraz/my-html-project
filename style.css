@@ -39,7 +39,9 @@ ul.menu-list-item a {
     display: none !important;
 }
 
-
+h1,h2,h3,h5 {
+    font-family: "Fredoka", sans-serif;
+}
 
 h1,h2,h3,h5,p,a {
     font-family: 'Asgard Trial', sans-serif;
