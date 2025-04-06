@@ -1186,11 +1186,12 @@ div#header-menu-col {
         font-size: 26px;
         margin-bottom: -10px;
 }
-.banner-main-heading h1 {
-        font-size: 32px;
-        line-height: 30px;
-    font-family: "Fredoka", sans-serif;
-}
+    .banner-main-heading h1 {
+        font-size: 40px;
+        line-height: 37px;
+        font-family: "Fredoka", sans-serif;
+        width: 80%;
+    }
 .img-txt-section {
         padding: 43px 10px 45px;
         background-position: bottom;
