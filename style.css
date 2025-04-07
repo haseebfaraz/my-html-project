@@ -1285,6 +1285,7 @@ section#events-section {
     .swiper-slide.banner-slider.banner-3.ban-4 {
     background-image: url("assets/images/Banner-4-Mobile.jpg") !important;
     background-position: bottom;
+    }
    .menu-list {
         display: none; /* Hide by default */
         flex-direction: column;
