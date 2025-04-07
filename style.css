@@ -1553,7 +1553,9 @@ img.banner-2.img-fluid {
         img.banner-2.img-fluid {
         WIDTH: 89.5%;
     }
-
+    .mob-banner-cts {
+        margin-top: 10px !important;
+    }
         .img-txt-main-heading h1 {
         font-size: 22px;
     }
@@ -1589,7 +1591,7 @@ img.banner-2.img-fluid {
         margin: 0px 20px 0px 0px !important;
     }
         .banner-main-heading h1 {
-        font-size: 40px;
+        font-size: 38px;
         line-height: 42px;
     }
         .banner-subheading h4 {
