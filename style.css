@@ -1279,9 +1279,12 @@ section#events-section {
         padding-right: 10px;
     }
     .swiper-slide.banner-slider.banner-3 {
-    background-image: url("assets/images/Banner-4-Mobile.jgp") !important;
+    background-image: url("assets/images/mob-banner-4.png") !important;
     background-position: bottom;
 }
+    .swiper-slide.banner-slider.banner-3.ban-4 {
+    background-image: url("assets/images/Banner-4-Mobile.jgp") !important;
+    background-position: bottom;
    .menu-list {
         display: none; /* Hide by default */
         flex-direction: column;
