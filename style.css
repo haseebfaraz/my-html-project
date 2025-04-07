@@ -53,7 +53,7 @@ p,a {
 }
 .banner-3 .banner-main-heading h1 {
     color:#fff;
-    -webkit-text-stroke: 1px #000;
+/*     -webkit-text-stroke: 1px #000; */
 }
 .banner-btn a:hover, .img-txt-btn a:hover, .event-content a.event-button:hover, .card-body a.btn:hover, .gallery-btn a.btn.btn-danger.px-4.py-2:hover, .footer-contact form button:hover {
     background-color: #fff;
@@ -967,10 +967,10 @@ section#home-banner .container, .img-txt-section .container, footer .container {
     padding: 10px 0px;
 }
         .card-body h5 {
-        font-size: 16px;
+        font-size: 22px;
     }
     #events-section .card-body p {
-    font-size: 13px;
+    font-size: 14px;
     margin-bottom: 10px;
 }
     .social-icon.d-flex img.img-fluid {
