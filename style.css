@@ -24,7 +24,10 @@ ul.menu-list-item a {
 .mobile-menu-icon {
     display: none;
 }
-
+div#reviewsCarousel .swiper-slide {
+    width: 620px !important;
+    margin: 0px 15px;
+}
 #mobile-menu-btn {
     background: none;
     border: none;
